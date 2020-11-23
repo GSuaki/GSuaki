@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gsuaki&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+
 I'm a Tech Lead from Brasil 🇧🇷 , currently working at [Mercado Libre](https://www.mercadolivre.com.br/). 
 
 I've been Full Stack 💻 since 2014, where i started my journey with Spring Framework projects written in Java 7 for Server Side and a mix salad of ChaplinJs Controllers with BackboneJs MVVM structure as Client Side. Then I went through Java 8 and Spring Boot architecture, providing REST APIs for AngularJs applications to consume. Then i’m explored the mobile world, worked as Android Developer and iOS Developer. 
