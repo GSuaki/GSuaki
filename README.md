@@ -1,6 +1,7 @@
-### Hi there 👋
+### 👋 Hi there visitor <img src="https://profile-counter.glitch.me/{gsuaki}/count.svg" alt="GSuaki :: Visitor's Count" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gsuaki&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel_suaki" alt="Languages" />
 
 I'm a Tech Lead from Brasil 🇧🇷 , currently working at [Mercado Libre](https://www.mercadolivre.com.br/). 
 
