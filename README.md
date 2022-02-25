@@ -10,11 +10,12 @@
 
 Tech Lead from Brasil 🇧🇷  to the W0rld 🌎  - Currently working at [Mercado Libre](https://www.mercadolivre.com.br/).
 
-I've been Full Stack 💻 since 2014, where i started my journey with Spring Framework projects written in Java 7 for Server Side and a mix salad of ChaplinJs Controllers with BackboneJs MVVM structure as Client Side. Then I went through Java 8 and Spring Boot architecture, providing REST APIs for AngularJs applications to consume. Then i’m explored the mobile world, worked as Android Developer and iOS Developer. 
+I've been Full Stack 💻 since 2014, where i started my journey with Spring Framework projects written in Java 7 for Server Side and a mix salad of ChaplinJs Controllers with BackboneJs MVVM structure as Client Side. Then i went through Java 8 and Spring Boot architecture, providing REST APIs for AngularJs applications to consume. Then i explored the mobile world, worked as Android Developer and iOS Developer.
 
-Nowadays, i help developers to grow their skills and build scalable services on cloud ⚡ On my free time, i work on my Startup [Contrata Show](http://contratashow.com.br/).
+Since 2017, i help developers to grow their skills and build scalable and reliable distributed services on cloud to millions of users ⚡ 
+On my free time, i work on my Startup [Contrata Show](http://contratashow.com.br/).
 
-💬  Talk to me about: Clean Architecture, Functional Programming, Vavr, Arrow Kt, Kotlin, Java, Reactive Stack, SOLID, Spring Boot, Spring Cloud, Web Development, JavaScript, VueJs, React, SSR, NodeJS, DevOps, AWS, Swift, iOS Development, Android Development, Maven, Gradle, etc..
+💬  Talk to me about: Distributed Systems, Fault-Tolerant Systems, Scalability, Reliability Engineering, System Design, Clean Architecture, Functional Programming, Vavr, Arrow Kt, Kotlin, Java, Golang, Clojure, Reactive Stack, SOLID, Spring Boot, Spring Cloud.
 
 Have a nice day =)
 
