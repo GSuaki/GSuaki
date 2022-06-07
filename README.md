@@ -6,7 +6,6 @@
 </a>
         
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=gsuaki&show_icons=true&theme=vue&hide_title=true&count_private=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriel_suaki" alt="Languages" />
 
 Tech Lead from Brasil 🇧🇷  to the W0rld 🌎  - Currently working at [Mercado Libre](https://www.mercadolivre.com.br/).
 
